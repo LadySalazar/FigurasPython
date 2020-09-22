@@ -1,8 +1,6 @@
 from unittest import TestCase
-
 from Circulo import Circulo
 from Punto import Punto
-
 
 class TestCirculo(TestCase):
     def test_hallar_area(self):
