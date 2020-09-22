@@ -1,5 +1,5 @@
 
-class Persona(object):
+class Figura():
     def hallarArea(self):
         return 0;
 
