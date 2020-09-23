@@ -18,4 +18,8 @@ class TestCirculo(TestCase):
         b2 = Punto(4,0)
         c3 = Circulo(b1,4)
         dist = c3.DeterminarSiHayPunto(b2)
+<<<<<<< HEAD
         self.assertEqual(dist,False)
+=======
+        self.assertEqual(dist,False)
+>>>>>>> Rectangulo

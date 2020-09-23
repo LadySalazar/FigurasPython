@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 class Figura():
+=======
+class Persona(object):
+>>>>>>> Punto
     def hallarArea(self):
         return 0;
 
